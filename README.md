@@ -3,3 +3,4 @@ For this mini-project, I’ll deconstruct an existing web page and rebuild it. (
 
 used skills:
 - setting up a repository at GitHub
+- horizontal navigation bar
